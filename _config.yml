@@ -51,6 +51,12 @@ highlight:
   tab_replace: ''
   wrap: true
   hljs: false
+  # enable: true
+  # line_number: true
+  # auto_detect: true
+  # tab_replace:
+  # hljs: true
+  # theme: monokai
 prismjs:
   enable: false
   preprocess: true
@@ -100,9 +106,13 @@ ignore:
 ## Themes: https://hexo.io/themes/
 theme: landscape
 
+# flex-block
+# https://github.com/miiiku/flex-block
+# theme: flex-block
+
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
   repo: https://github.com/hanguangbaihuo/sparrow_web.git
-  branch: gh-pages
+  branch: [gh-pages]
