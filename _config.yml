@@ -104,8 +104,8 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-# theme: landscape
-theme: landscap
+theme: landscape
+# theme: landscap
 
 # flex-block
 # https://github.com/miiiku/flex-block
